@@ -1,0 +1,27 @@
+ body {
+    background-color: #ECF2FF;
+ }
+ h1,h2,h3 {
+    color: #0B2447;
+ }
+ 
+ hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: none;
+    border-top-color:#443C68;
+    width: 5%;
+    border-width: 5px;
+    height: 10px;
+ }
+
+ img {
+    border-radius: 100%;
+ }
+
+ img:hover {
+    background-color: goldenrod;
+ }
+ .Heart {
+    background-color: blueviolet;
+ }
